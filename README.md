@@ -8,7 +8,7 @@
   - [پروتکل xRay]
     - [کلاینت‌ها]
       - [آیفون]
-        - [‌آموزش FoxRay](#outline-client)
+        - [‌آموزش FoxRay](protocol/xray/client/iphone-foxyray.md)
         -  [‌آموزش v2Box](#outline-client)
       - [اندروید]
         - [آموزش v2RayNG](#cisco-anyconnect-client)
