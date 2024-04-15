@@ -9,11 +9,11 @@
     - [کلاینت‌ها]
       - [آیفون]
         - [‌آموزش FoxRay](protocol/xray/client/iphone-foxyray.md)
-        -  [‌آموزش v2Box](#outline-client)
+        -  [‌آموزش v2Box](protocol/xray/client/iphone-v2box.md)
       - [اندروید]
-        - [آموزش v2RayNG](#cisco-anyconnect-client)
+        - [آموزش v2RayNG](protocol/xray/client/android-v2RayNG.md)
       - [ویندوز]
-        - [آموزش v2RayN](#sstp-client)
-- [پرسش‌های متداول](#anti-filter)
+        - [آموزش v2RayN](protocol/xray/client/windows-v2RayN.md)
+- [پرسش‌های متداول]
 
 
