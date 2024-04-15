@@ -7,9 +7,9 @@
 
 ## روش‌های اتصال آزاد و ایمن
 
-  ### پروتکل 
-  xRay
-    #### کلاینت‌ها
+  ### پروتکل xRay
+  
+    - کلاینت‌ها
       - [آیفون]
         - [‌آموزش FoxRay](protocol/xray/client/iphone-foxyray.md)
         -  [‌آموزش v2Box](protocol/xray/client/iphone-v2box.md)
