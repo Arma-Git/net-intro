@@ -9,11 +9,12 @@
     - [معرفی](#clash)
     - [کلاینت‌ها](#serverless)
     - [آیفون](#shadowsocks-client)
-        - [‌آموزش FoxRay](#outline-client)
+      - [‌آموزش FoxRay](#outline-client)
+      -  [‌آموزش v2Box](#outline-client)
     - [اندروید](#openvpn-client)
-        - [آموزش v2RayNG](#cisco-anyconnect-client)
+      - [آموزش v2RayNG](#cisco-anyconnect-client)
     - [ویندوز](#softether-client)
-        - [آموزش v2RayN](#sstp-client)
+      - [آموزش v2RayN](#sstp-client)
 - [پرسش‌های متداول](#anti-filter)
 
 
