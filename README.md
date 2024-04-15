@@ -17,7 +17,8 @@
         - [آموزش v2RayNG](protocol/xray/client/android-v2RayNG.md)
       - ویندوز
         - [آموزش v2RayN](protocol/xray/client/windows-v2RayN.md)
-        - 
+
+
 ## 📗 پرسش‌های متداول
 
 
