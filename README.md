@@ -10,12 +10,12 @@
 ### 📔 پروتکل xRay
   
   - کلاینت‌ها
-      - [آیفون]
+      - آیفون
         - [‌آموزش FoxRay](protocol/xray/client/iphone-foxyray.md)
         -  [‌آموزش v2Box](protocol/xray/client/iphone-v2box.md)
-      - [اندروید]
+      - اندروید
         - [آموزش v2RayNG](protocol/xray/client/android-v2RayNG.md)
-      - [ویندوز]
+      - ویندوز
         - [آموزش v2RayN](protocol/xray/client/windows-v2RayN.md)
         - 
 ## [پرسش‌های متداول]
