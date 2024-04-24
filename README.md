@@ -11,6 +11,7 @@
   
   - کلاینت‌ها
       - آیفون
+        - [‌آموزش Streisand](protocol/xray/client/iphone-Streisand.md)
         - [‌آموزش FoxRay](protocol/xray/client/iphone-foxyray.md)
         -  [‌آموزش v2Box](protocol/xray/client/iphone-v2box.md)
       - اندروید
