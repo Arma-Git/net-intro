@@ -26,7 +26,9 @@
 ### 📘 تنظیمات Subscription
 برای این کار روی سابسکریپشن اضافه شده به نرم‌افزار تپ کنید و نگه دارید. گزینه‌های زیر ظاهر می‌شوند.
 
-![260441401-52954cdf-5c76-4fbe-8adb-8371d7fa6747](https://github.com/Arma-Git/net-intro/assets/167113566/e0630b78-0e0f-44a3-acd6-3fc445046bb3)
+
+![260441401-52954cdf-5c76-4fbe-8adb-8371d7fa6747](https://github.com/Arma-Git/net-intro/assets/167113566/f8fee672-5fff-40e8-bc2f-624043d35633)
+
 
 Latency : میزان تاخیر مربوط به کانفیگ‌ها را محاسبه می‌کند.
 TCP Ping: از کانفیگ‌ها تست پینگ TCP می‌گیرد.
